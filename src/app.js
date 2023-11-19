@@ -12,6 +12,10 @@ const options = {
         servers: [
             {
                 url: "http://localhost:3000/",
+
+            },
+            {
+                url: "https://crypto-fintech-api.onrender.com/api-docs/",
             }
         ],
         info: {
