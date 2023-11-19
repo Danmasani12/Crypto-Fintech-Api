@@ -15,7 +15,7 @@ const options = {
 
             },
             {
-                url: "https://crypto-fintech-api.onrender.com/api-docs/",
+                url: "https://crypto-fintech-api.onrender.com/",
             }
         ],
         info: {
